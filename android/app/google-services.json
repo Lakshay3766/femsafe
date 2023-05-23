@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455519640233",
+    "firebase_url": "https://femsafe-48df3-default-rtdb.firebaseio.com",
+    "project_id": "femsafe-48df3",
+    "storage_bucket": "femsafe-48df3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455519640233:android:94cedae14ae93cd01867b8",
+        "android_client_info": {
+          "package_name": "com.femsafe.women"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455519640233-fnkgcktd284grd246efr3thjmihbs00k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqwjn7bL0xJmnuWZjDB-ZWmj2jo4iLR84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455519640233-fnkgcktd284grd246efr3thjmihbs00k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
